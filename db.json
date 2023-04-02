@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "patelkshiva@gmail.com",
+      "password": "$2a$10$o4E5RzDPLrGSKhAom0J6AOVXb5AjDAK3JUuWoqU77DtB7PZZUJ3Qa",
+      "id": 1
+    },
+    {
+      "email": "kosarishivakrishna10@gmail.com",
+      "password": "$2a$10$bAOKgk/1RQ8PcFO5EwZ6iOtU9GSshVtZR7KKw2cjeIQyQTyGznqf.",
+      "id": 2
+    }
+  ]
+}
